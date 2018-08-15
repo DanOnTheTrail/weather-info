@@ -11,7 +11,6 @@
   "auto-close-tag.SublimeText3Mode": true,
   "explorer.openEditors.visible": 0,
   "editor.minimap.enabled": false,
-  "html.autoClosingTags": false,
   "git.confirmSync": false,
   "editor.formatOnType": true,
   "editor.formatOnPaste": true,
@@ -22,4 +21,6 @@
   "prettier.trailingComma": "es5",
   "typescriptHero.imports.insertSemicolons": false,
   "typescriptHero.imports.multiLineWrapThreshold": 90,
+  "npm-intellisense.importQuotes": "'",
+  "npm-intellisense.importLinebreak": "\r\n",
 }
